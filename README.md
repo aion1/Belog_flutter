@@ -1,6 +1,6 @@
 # myblog
 
-A new Flutter application.
+A new Flutter application for creating blogs.
 
 ## Getting Started
 
